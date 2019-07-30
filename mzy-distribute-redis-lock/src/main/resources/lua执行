@@ -1,0 +1,2 @@
+redis-cli -a mkxiaoer --eval /opt/lock.lua aac bcb 5
+redis-cli -a mkxiaoer --eval /opt/unlock.lua aac bcb
